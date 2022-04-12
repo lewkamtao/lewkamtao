@@ -1,9 +1,8 @@
-Hi there 👋
-I'm a passionate frontend developer from Guangzhou.
+你好呀👋 我是来自广州的热情前端开发人员。
 
-- 🌱 I’m currently learning Golang, Vue, and TypeScript.
-- 🧐 I'm interested in everything Web Development.
-- 📝 I regularly write articles on my blog.
-- 🌟 I will do a lot of interesting projects. 
+- 我目前正在学习 Golang。
+- 对 Web 开发的一切都感兴趣。
+- 我经常在我的博客上写文章。
+- 在周末我会做很多有趣的项目。
 
-Besides PicHub, I also created an interesting forum (https://fish.tngeek.com).
+除了 PicHub，我还创建了一个有趣的论坛 ( https://fish.tngeek.com )。
